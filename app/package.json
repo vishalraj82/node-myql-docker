@@ -1,0 +1,15 @@
+{
+  "name": "node-mysql-docker",
+  "version": "1.0.0",
+  "description": "How to use NodeJS with MySQL in Docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "mysql2": "2.2.5"
+  },
+  "keywords": [],
+  "author": "Vishal Raj <vishalraj82@gmail.com>",
+  "license": "ISC"
+}
